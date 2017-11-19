@@ -7,5 +7,4 @@
 ##parseSO
 
 
-[学习so文件格式]
-(https://github.com/lamster2018/DexShell/blob/master/parseSo/src/main/java/com/example/lahm/parseso/ParseSo.java)
+[学习so文件格式](https://github.com/lamster2018/DexShell/blob/master/parseSo/src/main/java/com/example/lahm/parseso/ParseSo.java)
