@@ -1,1 +1,1 @@
-include ':app', ':DexShellTool'
+include ':app', ':DexShellTool', ':parseSo'
